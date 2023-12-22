@@ -1,0 +1,94 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "full_name": "Alice Smith",
+      "email": "alice.smith@gmail.com",
+      "position": "Fitness Trainer",
+      "department": "Personal Training",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 2,
+      "full_name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "position": "Fitness Trainer",
+      "department": "Personal Training",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 3,
+      "full_name": "Emily Johnson",
+      "email": "emily.johnson@gmail.com",
+      "position": "Gym Manager",
+      "department": "Facility Management",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 4,
+      "full_name": "David Williams",
+      "email": "david.williams@gmail.com",
+      "position": "HR Manager",
+      "department": "Administration",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 5,
+      "full_name": "Olivia Brown",
+      "email": "olivia.brown@gmail.com",
+      "position": "Fitness Trainer",
+      "department": "Front Desk Services",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 6,
+      "full_name": "Michael Miller",
+      "email": "michael.miller@gmail.com",
+      "position": "Head Coach",
+      "department": "Training and Development",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 7,
+      "full_name": "Sophia Wilson",
+      "email": "sophia.wilson@gmail.com",
+      "position": "HR Coordinator",
+      "department": "Administration",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 8,
+      "full_name": "Daniel Taylor",
+      "email": "daniel.taylor@gmail.com",
+      "position": "Fitness Trainer",
+      "department": "Marketing and Promotion",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 9,
+      "full_name": "Chloe Martinez",
+      "email": "chloe.martinez@gmail.com",
+      "position": "Gym Supervisor",
+      "department": "Facility Operations",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 10,
+      "full_name": "Ethan Garcia",
+      "email": "ethan.garcia@gmail.com",
+      "position": "HR Specialist",
+      "department": "Training and Development",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    }
+  ]
+}

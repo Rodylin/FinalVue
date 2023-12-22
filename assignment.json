@@ -1,0 +1,104 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "title": "Personal Training Session",
+      "description": "Conduct a personalized training session for a client.",
+      "employee_id": 10,
+      "deadline": "2023-12-25",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 2,
+      "title": "Fitness Seminar",
+      "description": "Prepare and present a fitness seminar for gym members.",
+      "employee_id": 2,
+      "deadline": "2023-12-30",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 3,
+      "title": "Facility Maintenance",
+      "description": "Oversee and ensure maintenance tasks are completed.",
+      "employee_id": 9,
+      "deadline": "2023-12-15",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 4,
+      "title": "Staff Training",
+      "description": "Organize and conduct a training session for new staff.",
+      "employee_id": 10,
+      "deadline": "2023-12-20",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 5,
+      "title": "HR Management",
+      "description": "Handle HR-related tasks for the gym facility.",
+      "employee_id": 4,
+      "deadline": "2023-12-10",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 6,
+      "title": "Client Consultation",
+      "description": "Provide a consultation session for a new gym member.",
+      "employee_id": 3,
+      "deadline": "2023-12-05",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 7,
+      "title": "Fitness Class",
+      "description": "Lead a fitness class for gym members.",
+      "employee_id": 5,
+      "deadline": "2023-12-01",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 8,
+      "title": "Equipment Maintenance",
+      "description": "Ensure all gym equipment is properly maintained.",
+      "employee_id": 6,
+      "deadline": "2023-11-22",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 9,
+      "title": "Marketing Campaign",
+      "description": "Implement a marketing campaign for the gym.",
+      "employee_id": 2,
+      "deadline": "2023-12-18",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 10,
+      "title": "Training Plan Development",
+      "description": "Develop a customized training plan for a client.",
+      "employee_id": 9,
+      "deadline": "2023-12-16",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    }
+  ]
+}
